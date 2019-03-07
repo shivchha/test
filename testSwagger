@@ -4,7 +4,7 @@ HOST: http://polls.apiblueprint.org/
 # Test
 
 Polls is a simple API allowing consumers to view polls and vote in them.
-
+This is the test swagger file.
 ## Questions Collection [/questions]
 
 ### List All Questions [GET]
